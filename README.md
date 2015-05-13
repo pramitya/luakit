@@ -1,5 +1,5 @@
 ![alt tag]
-(https://scontent-sin.xx.fbcdn.net/hphotos-frc3/t31.0-8/s960x960/1146393_339997142801523_325393818_o.jpg)
+(http://img2.wikia.nocookie.net/__cb20110526012816/pokemon/images/archive/4/49/20110526012846!Ash_Pikachu.png)
 
 # Luakit
 
