@@ -1,3 +1,5 @@
+![alt tag]
+(http://img2.wikia.nocookie.net/__cb20110526012816/pokemon/images/archive/4/49/20110526012846!Ash_Pikachu.png)
 
 # Luakit
 
